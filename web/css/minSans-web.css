@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "MinSansVF";
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/variable/MinSansVF.woff2")
+        format("woff2-variations");
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-Black.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 800;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-ExtraBold.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-Bold.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-SemiBold.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-Medium.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-Regular.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-Light.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 200;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-ExtraLight.woff2")
+        format("woff2");
+}
+
+@font-face {
+    font-family: "MinSans";
+    font-weight: 100;
+    src: url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans-web@main/fonts/static/MinSans-Thin.woff2")
+        format("woff2");
+}

@@ -26,26 +26,26 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans@main/web/css/minsans-dynamic-subset.css"/>
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsans-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans@main/web/css/minsans-dynamic-subset.css");
 ```
-    
+
 ### Min Sans VF
 #### HTML
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsansvf-dynamic-subset.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans@main/web/css/minsansvf-dynamic-subset.css"/>
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/poposnail61/min-sans@main/web/css/minsansvf-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.com/gh/AkarinLiu/min-sans@main/web/css/minsansvf-dynamic-subset.css");
 ```
 
 ![](./assets/img01.jpg)
